@@ -13,7 +13,7 @@ part.Parent = workspace
 
 
 print("sa")
-game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 600
 print("sa")
 print("sa")
 print("sa")
